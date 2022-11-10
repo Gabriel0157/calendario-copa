@@ -1,0 +1,12 @@
+.card {
+    background: var(--card-bg-color);
+    width: 19.75rem;
+    padding-block: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card img {
+    width: 3.125rem;
+}
